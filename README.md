@@ -78,7 +78,7 @@ https://drive.google.com/file/d/1yEWF9ce-nk-nmuk6jfYmPpPu9XFLyz4_/view?usp=shari
 Clone the project
 
 ```bash
-  git clone https://github.com/dyte-submissions/november-2023-hiring-AnuragRoshan.git
+  git clone https://github.com/AnuragRoshan/LogIngestor.git
 ```
 
 Move into Project folder
