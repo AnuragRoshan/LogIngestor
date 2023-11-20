@@ -77,43 +77,44 @@ https://drive.google.com/file/d/1yEWF9ce-nk-nmuk6jfYmPpPu9XFLyz4_/view?usp=shari
 
 Clone the project
 
-bash
+```bash
   git clone https://github.com/dyte-submissions/november-2023-hiring-AnuragRoshan.git
-
+```
 
 Move into Project folder
 
-bash
+```bash
 cd november-2023-hiring-AnuragRoshan
-
+```
 
 Move into server and install node dependencies for server side
 
-bash
+```bash
 cd server
 npm i
-
+```
 
 Install react dependencies in client folder
 
-bash
+```bash
 cd ..
 cd client
 npm i
-
+```
 
 Run node backend in other shell
 
-bash
+```bash
 npm start
-
+```
 
 Run react frontend in third shell
 
-bash
+```bash
 cd ..
 cd client
 npm start
+```
 
 ## References
 
