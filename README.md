@@ -4,9 +4,9 @@ This SDE-1 Assignment require the development of a robust log ingestor system an
 
 ## Tech Stack
 
-**Client:** React.Js, Redux, Material UI
+*Client:* React.Js, Redux, Material UI
 
-**Server:** Node.Js, Express.Js ,Mongodb
+*Server:* Node.Js, Express.Js ,Mongodb
 
 ## Features Implemented
 
@@ -48,13 +48,13 @@ This SDE-1 Assignment require the development of a robust log ingestor system an
 
 ### File Examined When there is no indexing in DB
 
-![logind](https://raw.githubusercontent.com/dyte-submissions/november-2023-hiring-AnuragRoshan/master/images/notIndex.png?token=GHSAT0AAAAAACJHFBZZQM23TATW26UXJXG4ZKZ3HDA)
+![logind](https://github.com/AnuragRoshan/images/blob/main/notIndex.png)
 
 Total File Examined For Search Query On Level : "Err" is 47 , Here it is applying Linear Search
 
 ## File Examined When there is indexing in DB
 
-![logind2](https://raw.githubusercontent.com/dyte-submissions/november-2023-hiring-AnuragRoshan/master/images/index.png?token=GHSAT0AAAAAACJHFBZYKIKXXKJKWKKVKACAZKZ3HHA)
+![logind2](https://raw.githubusercontent.com/AnuragRoshan/images/main/index.png)
 
 Total File Examined For Search Query On Level : “Err” is 14 , Here it is applying Binary Search
 
@@ -77,44 +77,49 @@ https://drive.google.com/file/d/1yEWF9ce-nk-nmuk6jfYmPpPu9XFLyz4_/view?usp=shari
 
 Clone the project
 
-```bash
+bash
   git clone https://github.com/dyte-submissions/november-2023-hiring-AnuragRoshan.git
-```
+
 
 Move into Project folder
 
-```bash
+bash
 cd november-2023-hiring-AnuragRoshan
-```
+
 
 Move into server and install node dependencies for server side
 
-```bash
+bash
 cd server
 npm i
-```
+
 
 Install react dependencies in client folder
 
-```bash
+bash
 cd ..
 cd client
 npm i
-```
+
 
 Run node backend in other shell
 
-```bash
+bash
 npm start
-```
+
 
 Run react frontend in third shell
 
-```bash
+bash
 cd ..
 cd client
 npm start
-```
+
+## References
+
+MongoDB Official Documentation - https://www.linkedin.com/in/anurag-roshan/
+Indexing On Database - https://www.linkedin.com/in/anurag-roshan/
+Front End UI - https://devsnap.me/css-toggle-switches
 
 ## Authors
 
@@ -126,12 +131,12 @@ If you have any feedback, please reach out to us at anuragraushan373@gmail.com
 
 ## Toggle Role Page
 
-![mvrs6](https://raw.githubusercontent.com/dyte-submissions/november-2023-hiring-AnuragRoshan/master/images/log1.png?token=GHSAT0AAAAAACJHFBZYHFCPDE43ZTXWRVEMZKZ2Y3A)
+![mvrs6](https://github.com/AnuragRoshan/images/blob/main/log1.png)
 
 The "Toggle Role" page enables administrators to effortlessly switch between roles, granting access to specialized query filters. This streamlined interface empowers administrators with exclusive capabilities, ensuring users maintain restricted access without compromising security.
 
 ## Filter Page
 
-![mvrse1](https://raw.githubusercontent.com/dyte-submissions/november-2023-hiring-AnuragRoshan/master/images/log2.png?token=GHSAT0AAAAAACJHFBZYQZVFEQXZXSBP4HSGZKZ23HA)
+![mvrse1](https://github.com/AnuragRoshan/images/blob/main/log2.png)
 
-![mvrs9](https://raw.githubusercontent.com/dyte-submissions/november-2023-hiring-AnuragRoshan/master/images/log3.png?token=GHSAT0AAAAAACJHFBZZ7CJDDTLJSJUFN35IZKZ23KQ)
+![mvrs9](https://github.com/AnuragRoshan/images/blob/main/log3.png)
