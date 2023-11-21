@@ -118,9 +118,9 @@ npm start
 
 ## References
 
-MongoDB Official Documentation - https://www.linkedin.com/in/anurag-roshan/
-Indexing On Database - https://www.linkedin.com/in/anurag-roshan/
-Front End UI - https://devsnap.me/css-toggle-switches
+-MongoDB Official Documentation : https://www.mongodb.com/docs/
+-Indexing On Database : https://youtu.be/yo6ZXsgsyBA?si=Ft5swjQ9MgU-TkPi
+-Front End UI : https://devsnap.me/css-toggle-switches
 
 ## Authors
 
